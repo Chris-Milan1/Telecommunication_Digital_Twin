@@ -6,6 +6,12 @@ The aim is to create a simplified digital representation of a mobile network tha
 
 ---
 
+## Dashboard Preview
+The interactive dashboard provides a live view of the simulated
+telecommunications network, including user locations, cell sites
+and network performance.
+
+![Telecommunications Digital Twin Dashboard](Screenshots/cover.png)
 ## Project Overview
 
 This project simulates a telecommunications network across a configurable geographical area containing multiple regions, mobile users and cellular towers.
