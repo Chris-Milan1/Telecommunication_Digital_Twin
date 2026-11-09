@@ -11,7 +11,7 @@ The interactive dashboard provides a live view of the simulated
 telecommunications network, including user locations, cell sites
 and network performance.
 
-![Telecommunications Digital Twin Dashboard](Screenshots/cover.png)
+![Telecommunications_Digital_Twin](Screenshots/Cover.png)
 ## Project Overview
 
 This project simulates a telecommunications network across a configurable geographical area containing multiple regions, mobile users and cellular towers.
